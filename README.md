@@ -1,6 +1,6 @@
 ## 🧠 Methodology: Eliminating the Train/Test Loop
 ## 🎥 Demo
-[▶️ Click here to watch the Zero-Shot Object Detection Demo](./demo_preview.mp4)
+[▶️ Click here to watch the Zero-Shot Object Detection Demo]https://youtube.com/shorts/OPs0yIwKutI
 Traditional computer vision pipelines (like YOLO or Faster R-CNN) rely on a rigid, labor-intensive supervised learning cycle:
 1.  **Data Collection:** Gathering thousands of images.
 2.  **Annotation:** Manually drawing bounding boxes for specific classes (e.g., "car", "person").
