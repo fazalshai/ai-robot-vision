@@ -1,5 +1,6 @@
 ## 🧠 Methodology: Eliminating the Train/Test Loop
-
+## 🎥 Demo Video
+[Click here to watch the demo video](./demo_preview.mp4)
 Traditional computer vision pipelines (like YOLO or Faster R-CNN) rely on a rigid, labor-intensive supervised learning cycle:
 1.  **Data Collection:** Gathering thousands of images.
 2.  **Annotation:** Manually drawing bounding boxes for specific classes (e.g., "car", "person").
